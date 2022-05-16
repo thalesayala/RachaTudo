@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     valorFstr = "0.0"
                 }
                 resultado!!.text = ("O valor para cada infeliz é ${valorFstr} reais")
+
             }
             if (conta.text.isEmpty() && pessoas.text.isEmpty()) {
                 resultado!!.text= "0.0"

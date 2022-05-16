@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Split All</string>
+    <string name="button">Button</string>
+    <string name="valor_da_conta">Your bill is!</string>
+    <string name="pessoas">People</string>
+    <string name="share2">Share</string>
+    <string name="speak">speak result</string>
+    <string name="divis_o_da_conta">Your Split Bill Value is:</string>
+</resources>

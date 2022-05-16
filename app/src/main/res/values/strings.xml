@@ -2,4 +2,8 @@
     <string name="app_name">Racha Tudo</string>
     <string name="button">Button</string>
     <string name="valor_da_conta">Valor da Conta</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="share2">Compartilhar</string>
+    <string name="speak">falar resultado</string>
+    <string name="divis_o_da_conta">Divisão da Conta</string>
 </resources>
